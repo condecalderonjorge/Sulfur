@@ -7,7 +7,7 @@
 ---
 
 ## 🎯 Objetivo del proyecto
-Desarrollar un sistema de **Business Intelligence** para extraer monitorizar el rendimiento de precios, entregas, stock y proveedores en la consultora **BuConDa**, con el fin de mejorar la eficiencia logística y la disponibilidad del azufre a un cliente.
+Automatizar y desarrollar un sistema de **Business Intelligence** para extraer y monitorizar el rendimiento de precios, entregas, stock y proveedores en la consultora **BuConDa**, con el fin de mejorar la eficiencia logística y el abastecimiento de materias primas.
 
 ---
 
@@ -31,7 +31,7 @@ Desarrollar un sistema de **Business Intelligence** para extraer monitorizar el 
 ---
 
 ## 🔍 Proceso ETL
-1. **Extracción:** datos fuente en Excel y SQL. Extracción de los precios de mercado mediante scrapping. 
+1. **Extracción:** datos fuente en Excel y SQL. Extracción de los precios y de noticias relevantes mediante scrapping automatizado. 
 2. **Transformación:** normalización, unión de tablas, control de valores.  
 3. **Carga:** modelo Power BI con relación estrella (Sales ↔ Product ↔ Supplier ↔ Calendar).
 
@@ -40,7 +40,7 @@ Desarrollar un sistema de **Business Intelligence** para extraer monitorizar el 
 ## 💡 Resultados
 - Previsión (forecast) internacional del precio de compra mediante monitorización.  
 - Integración de KPIs logísticos y de ventas en un único panel operativo.  
-- Integración de funtes de últimas noticias relevantes en el precio mediante scrapping.
+- Integración de fuentes de últimas noticias relevantes en el precio mediante scrapping.
 
 
 ---
