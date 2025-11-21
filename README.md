@@ -13,13 +13,8 @@ Automatizar y desarrollar un sistema de **Business Intelligence** para extraer y
 
 ## 🧱 Estructura del proyecto
 | Componente | Descripción | href |
-|-------------|-------------|----|
-| `Reto Buconda.pbix` | Dashboard de Power BI con KPIs, precios, pedidos y noticias. | https://app.powerbi.com/
-viewr=eyJrIjoiZjI4OGE1MjYt
-ZGVmZC00ZjZhLTk0ZjktMDUxMG
-MxYmQzYzg4IiwidCI6ImNlYTFl
-YTNlLTYwYjItNGY3NS1hNmMyLW
-E2MDIyZThmOTYxYiIsImMiOjh9 |
+|----------------|----------------|----|
+| `Reto Buconda.pbix` | Dashboard de Power BI con KPIs, precios, pedidos y noticias. | https://app.powerbi.com/viewr=eyJrIjoiZjI4OGE1MjYtZGVmZC00ZjZhLTk0ZjktMDUxMGMxYmQzYzg4IiwidCI6ImNlYTFlYTNlLTYwYjItNGY3NS1hNmMyLWE2MDIyZThmOTYxYiIsImMiOjh9 |
 
 ## 📊 KPIs principales
 - **% de variación del precio**  
